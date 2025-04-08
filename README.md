@@ -1,1 +1,1 @@
-# ML-Mini-Project
+The Art Painting Recognition System uses machine learning and computer vision to classify paintings by genres, artistic styles, and artists. Using a large database to be trained, the system extracts features like texture, color, and composition to classify paintings accurately. The system can also recognize new styles, provide historical data, and it makes work more efficient for museums, art historians, and collectors by supporting documentation and authentication of work with evidence.
